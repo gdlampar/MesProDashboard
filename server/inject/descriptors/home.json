@@ -40,6 +40,11 @@
       "type": "string",
       "selector": ".Setup .badge",
       "control": "property.innerHTML"
+    },
+    "processing": {
+      "type": "string",
+      "selector": ".Processing .badge",
+      "control": "property.innerHTML"
     }
   },
   "connect": []
