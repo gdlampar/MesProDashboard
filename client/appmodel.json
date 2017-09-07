@@ -153,6 +153,39 @@
       },
       "action6": {
         "type": "action"
+      },
+      "total": {
+        "type": "string"
+      },
+      "idle": {
+        "type": "string"
+      },
+      "down": {
+        "type": "string"
+      },
+      "outofycle": {
+        "type": "string"
+      },
+      "unknown": {
+        "type": "string"
+      },
+      "trailrun": {
+        "type": "string"
+      },
+      "setup": {
+        "type": "string"
+      },
+      "processing": {
+        "type": "string"
+      },
+      "maintenance": {
+        "type": "string"
+      },
+      "break": {
+        "type": "string"
+      },
+      "changeover": {
+        "type": "string"
       }
     }
   }
