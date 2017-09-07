@@ -23,7 +23,7 @@
     },
     "overtime": {
       "type": "string",
-      "selector": ".overtime .badge",
+      "selector": ".OverTime .badge",
       "control": "property.innerHTML"
     }
   },
