@@ -13,7 +13,7 @@
     },
     "idle": {
       "type": "string",
-      "selector": ".Idle.badge",
+      "selector": ".Idle .badge",
       "control": "property.innerText"
     }
   },
