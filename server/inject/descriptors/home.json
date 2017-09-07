@@ -5,6 +5,11 @@
       "type": "identifier",
       "selector": ".gauge",
       "control": "exists"
+    },
+    "total": {
+      "type": "string",
+      "control": "property.innerHTML",
+      "selector": ".Total .badge"
     }
   },
   "connect": []
