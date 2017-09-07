@@ -14,6 +14,13 @@
       "name": "multiselect",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.multiselect"
+    },
+    {
+      "id": "settings",
+      "name": "settings",
+      "sourceScreenId": "app.formsmall.formsmallcool",
+      "sourceAppId": "universaltemplates",
+      "model": "settings"
     }
   ],
   "sourceAppId": "_blank",
