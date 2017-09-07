@@ -21,6 +21,13 @@
       "sourceScreenId": "app.formsmall.formsmallcool",
       "sourceAppId": "universaltemplates",
       "model": "settings"
+    },
+    {
+      "id": "home",
+      "name": "home",
+      "sourceScreenId": "app.home.homecool",
+      "sourceAppId": "universaltemplates",
+      "model": "home"
     }
   ],
   "sourceAppId": "_blank",
