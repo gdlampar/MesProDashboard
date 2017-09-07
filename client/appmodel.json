@@ -90,20 +90,23 @@
         "items": {
           "type": "object",
           "properties": {
-            "description": {
-              "type": "string",
-              "label": "description"
-            },
-            "name": {
+            "machine": {
               "type": "string",
               "label": "ListItemName"
             },
-            "date": {
+            "ava": {
               "type": "string",
               "label": "Date - Time"
             },
-            "action": {
-              "type": "action"
+            "per": {
+              "type": "string",
+              "label": "description"
+            },
+            "yield": {
+              "type": "string"
+            },
+            "oee": {
+              "type": "string"
             }
           }
         },
