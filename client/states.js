@@ -33,14 +33,5 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.configuration', {
-        views: {
-            app: {
-                controller: 'app_configuration',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.configuration');
-                }
-            }
-        }
     });
 });
