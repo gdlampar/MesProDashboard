@@ -21,7 +21,7 @@
       "selector": ".Down .badge",
       "control": "property.innerHTML"
     },
-    "overtime": {
+    "outofcycle": {
       "type": "string",
       "selector": ".OverTime .badge",
       "control": "property.innerHTML"
