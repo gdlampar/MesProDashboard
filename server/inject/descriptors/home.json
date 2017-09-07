@@ -20,6 +20,11 @@
       "type": "string",
       "selector": ".res-status .Down",
       "control": "property.innerHTML"
+    },
+    "overtime": {
+      "type": "string",
+      "selector": ".res-status .overtime",
+      "control": "property.innerHTML"
     }
   },
   "connect": []
