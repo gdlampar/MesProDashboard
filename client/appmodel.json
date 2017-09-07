@@ -59,7 +59,10 @@
         "type": "string"
       },
       "trailrun": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       },
       "setup": {
         "type": "string"
