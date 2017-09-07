@@ -38,10 +38,16 @@
         "type": "action"
       },
       "total": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       },
       "idle": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       },
       "down": {
         "type": "string"
