@@ -62,5 +62,14 @@
       "control": "property.innerHTML"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "ishome"
+      ],
+      "screens": [
+        "home"
+      ]
+    }
+  ]
 }
