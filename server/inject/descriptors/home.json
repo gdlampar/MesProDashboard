@@ -30,6 +30,11 @@
       "type": "string",
       "selector": ".UnknownCycle .badge",
       "control": "property.innerHTML"
+    },
+    "trailrun": {
+      "type": "string",
+      "selector": ".TrailRun .badge",
+      "control": "property.innerHTML"
     }
   },
   "connect": []
