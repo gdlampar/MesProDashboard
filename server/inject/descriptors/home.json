@@ -28,7 +28,7 @@
     },
     "unknown": {
       "type": "string",
-      "selector": ".res-status.Idle",
+      "selector": ".UnknownCycle .badge",
       "control": "property.innerHTML"
     }
   },
