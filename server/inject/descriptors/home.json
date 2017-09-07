@@ -35,6 +35,11 @@
       "type": "string",
       "selector": ".TrailRun .badge",
       "control": "property.innerHTML"
+    },
+    "setup": {
+      "type": "string",
+      "selector": ".Setup.badge",
+      "control": "property.innerHTML"
     }
   },
   "connect": []
