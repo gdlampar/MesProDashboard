@@ -28,6 +28,13 @@
       "sourceScreenId": "app.home.homecool",
       "sourceAppId": "universaltemplates",
       "model": "home"
+    },
+    {
+      "id": "oeedetail",
+      "name": "oeedetail",
+      "sourceScreenId": "app.tableview.tabledatacool",
+      "sourceAppId": "universaltemplates",
+      "model": "oeedetail"
     }
   ],
   "sourceAppId": "_blank",
