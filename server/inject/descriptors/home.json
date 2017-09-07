@@ -38,7 +38,7 @@
     },
     "setup": {
       "type": "string",
-      "selector": ".Setup.badge",
+      "selector": ".Setup .badge",
       "control": "property.innerHTML"
     }
   },
