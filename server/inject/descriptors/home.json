@@ -45,6 +45,11 @@
       "type": "string",
       "selector": ".Processing .badge",
       "control": "property.innerHTML"
+    },
+    "maintenance": {
+      "type": "string",
+      "selector": ".Maintenance .badge",
+      "control": "property.innerHTML"
     }
   },
   "connect": []
