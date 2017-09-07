@@ -1,0 +1,17 @@
+{
+  "remoteAppConfig": {
+    "loginType": "process",
+    "cmd": "node",
+    "args": [
+      "<%= transformAppsDir %>/mesprodashboard/server/start.js",
+      "--sessionID",
+      ":sessionID"
+    ]
+  },
+  "appData": {
+    "appType": "local",
+    "appZip": "<%= staticStorage %>mesprodashboard/client.zip",
+    "sessionCheck": false,
+    "smartuxApp": "<%= staticStorage %>mesprodashboard/smartuxApp.json"
+  }
+}
