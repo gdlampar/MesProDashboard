@@ -15,6 +15,11 @@
       "type": "string",
       "selector": ".Idle .badge",
       "control": "property.innerText"
+    },
+    "down": {
+      "type": "string",
+      "selector": ".res-status .Down",
+      "control": "property.innerHTML"
     }
   },
   "connect": []
