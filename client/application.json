@@ -1,0 +1,8 @@
+{
+  "name": "mesprodashboard",
+  "description": "MesPro Dashboard for mobiles",
+  "defaultLayout": "phone-portrait",
+  "previewToken": "5b59f743",
+  "uiCommonVersion": "5.1.2",
+  "creatorId": "gdlampar"
+}
