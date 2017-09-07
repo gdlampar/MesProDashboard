@@ -18,12 +18,17 @@
     },
     "down": {
       "type": "string",
-      "selector": ".Down .badge",
+      "selector": ".UnknownCycle .badge",
       "control": "property.innerHTML"
     },
     "outofcycle": {
       "type": "string",
       "selector": ".OverTime .badge",
+      "control": "property.innerHTML"
+    },
+    "unknown": {
+      "type": "string",
+      "selector": ".res-status.Idle",
       "control": "property.innerHTML"
     }
   },
