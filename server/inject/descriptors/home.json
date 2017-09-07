@@ -1,5 +1,11 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "ishome": {
+      "type": "identifier",
+      "selector": ".gauge",
+      "control": "exists"
+    }
+  },
   "connect": []
 }
