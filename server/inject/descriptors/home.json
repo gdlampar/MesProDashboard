@@ -10,6 +10,11 @@
       "type": "string",
       "control": "property.innerHTML",
       "selector": ".Total .badge"
+    },
+    "idle": {
+      "type": "string",
+      "selector": ".Idle.badge",
+      "control": "property.innerText"
     }
   },
   "connect": []
