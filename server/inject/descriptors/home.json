@@ -18,7 +18,7 @@
     },
     "down": {
       "type": "string",
-      "selector": ".down .badge",
+      "selector": ".Down .badge",
       "control": "property.innerHTML"
     },
     "overtime": {
