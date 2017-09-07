@@ -18,12 +18,12 @@
     },
     "down": {
       "type": "string",
-      "selector": ".res-status .Down",
+      "selector": ".down .badge",
       "control": "property.innerHTML"
     },
     "overtime": {
       "type": "string",
-      "selector": ".res-status .overtime",
+      "selector": ".overtime .badge",
       "control": "property.innerHTML"
     }
   },
