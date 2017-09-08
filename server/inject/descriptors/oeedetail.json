@@ -18,6 +18,11 @@
             "type": "string",
             "control": "property.innerText",
             "selector": "td"
+          },
+          "ava": {
+            "type": "string",
+            "selector": ".Processing",
+            "control": "property.innerText"
           }
         }
       }
