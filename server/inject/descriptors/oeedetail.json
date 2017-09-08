@@ -4,9 +4,7 @@
     "isoeedetail": {
       "type": "identifier",
       "selector": ".oee-table",
-      "control": "exists",
-      "selectContains": "OEE Detail - MESPRO Dashboard",
-      "selectHidden": true
+      "control": "exists"
     },
     "listItems": {
       "type": "array",
