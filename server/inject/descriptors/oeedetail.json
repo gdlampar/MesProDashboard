@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "isoeedetail": {
+      "type": "string",
+      "selector": "title",
+      "control": "property.innerHTML",
+      "selectContains": "OEE Detail - MESPRO Dashboard"
+    }
+  },
+  "connect": []
+}
