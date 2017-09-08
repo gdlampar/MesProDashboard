@@ -71,11 +71,6 @@
       "screens": [
         "home"
       ]
-    },
-    {
-      "match": [],
-      "action": "action3",
-      "model": "oeedetail"
     }
   ]
 }
