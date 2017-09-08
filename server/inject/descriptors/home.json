@@ -59,8 +59,9 @@
     "action3": {
       "type": "action",
       "selector": "a",
-      "selectContains": "oee detail",
-      "control": "action.link"
+      "selectContains": "OEE DETAIL",
+      "control": "action.link",
+      "selectHidden": true
     }
   },
   "connect": [
