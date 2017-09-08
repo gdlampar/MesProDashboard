@@ -56,10 +56,11 @@
       "selector": ".Break .badge",
       "control": "property.innerHTML"
     },
-    "changeover": {
-      "type": "string",
-      "selector": ".ChangeOver .badge",
-      "control": "property.innerHTML"
+    "action3": {
+      "type": "action",
+      "selector": "a",
+      "selectContains": "oee detail",
+      "control": "action.link"
     }
   },
   "connect": [
