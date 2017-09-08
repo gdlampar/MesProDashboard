@@ -31,7 +31,7 @@
           },
           "yield": {
             "type": "string",
-            "selector": "td:nth-child(y)",
+            "selector": "td:nth-child(4)",
             "control": "property.innerText"
           },
           "oee": {
