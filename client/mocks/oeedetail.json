@@ -3,7 +3,9 @@
     {
       "machine": "List Name One",
       "ava": "01/04/2017",
-      "per": "Description Text, lorem ipsum dolor sit amet."
+      "per": "Description Text, lorem ipsum dolor sit amet.",
+       "yield": "01/04/2017",
+      "oee": "Description Text, lorem ipsum dolor sit amet."
     },
     {
       "machine": "Second List Name",

@@ -17,15 +17,26 @@
                 <div class="col" data-comp-id="column.1" style="padding: 10px;">
                     <div class=" positive" data-comp-id="text.1" ng-bind="item.machine"
                         style="font-size: 20px; line-height: 28px;"></div>
-                    <div class=" dark" data-comp-id="text.2" ng-bind="item.per"
-                        style="font-size: 16px; line-height: 24px;">Some text</div>
                     <label class="item item-input" data-comp-display="labeledtext.1"
                         data-comp-id="textInput.1">
-                        <span class="input-label">Label</span>
-                        <span type="text"></span>
+                        <span class="input-label">Per</span>
+                        <span ng-bind="item.per" type="text">XXXX</span>
                     </label>
-                    <div class=" dark" data-comp-id="text.3" ng-bind="item.ava"
-                        style="font-size: 12px;">Some text</div>
+                    <label class="item item-input" data-comp-display="labeledtext.1"
+                        data-comp-id="textInput.2">
+                        <span class="input-label">AVA</span>
+                        <span ng-bind="item.ava" type="text">XXXX</span>
+                    </label>
+                    <label class="item item-input" data-comp-display="labeledtext.1"
+                        data-comp-id="textInput.3">
+                        <span class="input-label">Yield</span>
+                        <span ng-bind="item.yield" type="text">XXXX</span>
+                    </label>
+                    <label class="item item-input" data-comp-display="labeledtext.1"
+                        data-comp-id="textInput.4">
+                        <span class="input-label">OEE</span>
+                        <span ng-bind="item.oee" type="text">XXXX</span>
+                    </label>
                 </div>
                 <div class="col col-10 text-center" data-comp-id="column.2"
                     style="padding: 10px 5px;">
