@@ -3,7 +3,7 @@
   "properties": {
     "isoeedetail": {
       "type": "string",
-      "selector": "title",
+      "selector": "head > title",
       "control": "exists",
       "selectContains": "OEE Detail - MESPRO Dashboard"
     }
