@@ -21,7 +21,7 @@
           },
           "ava": {
             "type": "string",
-            "selector": ".Processing",
+            "selector": "td[3]",
             "control": "property.innerText"
           }
         }
