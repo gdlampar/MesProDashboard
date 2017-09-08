@@ -13,7 +13,13 @@
       "selectorAll": "#oee-table > tbody > tr",
       "items": {
         "type": "object",
-        "properties": {}
+        "properties": {
+          "machine": {
+            "type": "string",
+            "control": "property.innerText",
+            "selector": "td"
+          }
+        }
       }
     }
   },
