@@ -4,7 +4,7 @@
     "isoeedetail": {
       "type": "string",
       "selector": "title",
-      "control": "property.innerHTML",
+      "control": "exists",
       "selectContains": "OEE Detail - MESPRO Dashboard"
     }
   },
