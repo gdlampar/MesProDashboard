@@ -45,7 +45,9 @@
   },
   "connect": [
     {
-      "match": [],
+      "match": [
+        "isoeedetail"
+      ],
       "screens": [
         "oeedetail"
       ]
