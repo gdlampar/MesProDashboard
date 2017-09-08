@@ -71,6 +71,10 @@
       "screens": [
         "home"
       ]
+    },
+    {
+      "match": [],
+      "action": "action3"
     }
   ]
 }
