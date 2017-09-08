@@ -10,7 +10,7 @@
     },
     "listItems": {
       "type": "array",
-      "selectorAll": "title",
+      "selectorAll": "#oee-table > tbody > tr",
       "items": {
         "type": "object",
         "properties": {}
