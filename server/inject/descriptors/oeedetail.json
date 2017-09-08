@@ -7,6 +7,14 @@
       "control": "exists",
       "selectContains": "OEE Detail - MESPRO Dashboard",
       "selectHidden": true
+    },
+    "listItems": {
+      "type": "array",
+      "selectorAll": "title",
+      "items": {
+        "type": "object",
+        "properties": {}
+      }
     }
   },
   "connect": []
