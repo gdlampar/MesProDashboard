@@ -28,6 +28,16 @@
             "type": "string",
             "selector": "td:nth-child(4)",
             "control": "property.innerText"
+          },
+          "yield": {
+            "type": "string",
+            "selector": "td:nth-child(4)",
+            "control": "property.innerText"
+          },
+          "oee": {
+            "type": "string",
+            "selector": "td:nth-child(5)",
+            "control": "property.innerText"
           }
         }
       }
