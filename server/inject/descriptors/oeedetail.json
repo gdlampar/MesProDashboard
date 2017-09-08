@@ -5,7 +5,8 @@
       "type": "string",
       "selector": "head > title",
       "control": "exists",
-      "selectContains": "OEE Detail - MESPRO Dashboard"
+      "selectContains": "OEE Detail - MESPRO Dashboard",
+      "selectHidden": true
     }
   },
   "connect": []
