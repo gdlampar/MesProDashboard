@@ -60,8 +60,7 @@
       "type": "action",
       "selector": "a",
       "selectContains": "OEE DETAIL",
-      "control": "action.link",
-      "selectHidden": true
+      "control": "action.link"
     }
   },
   "connect": [
