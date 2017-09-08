@@ -3,7 +3,7 @@
   "properties": {
     "isoeedetail": {
       "type": "identifier",
-      "selector": "head > title",
+      "selector": ".oee-table",
       "control": "exists",
       "selectContains": "OEE Detail - MESPRO Dashboard",
       "selectHidden": true
