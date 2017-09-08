@@ -2,7 +2,7 @@
   "type": "object",
   "properties": {
     "isoeedetail": {
-      "type": "string",
+      "type": "identifier",
       "selector": "head > title",
       "control": "exists",
       "selectContains": "OEE Detail - MESPRO Dashboard",
