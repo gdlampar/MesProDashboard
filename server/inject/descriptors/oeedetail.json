@@ -21,7 +21,7 @@
           },
           "ava": {
             "type": "string",
-            "selector": "td[3]",
+            "selector": "td:nth-child(2)",
             "control": "property.innerText"
           }
         }
