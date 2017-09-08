@@ -75,7 +75,7 @@
     {
       "match": [],
       "action": "action3",
-      "model": "home"
+      "model": "oeedetail"
     }
   ]
 }
