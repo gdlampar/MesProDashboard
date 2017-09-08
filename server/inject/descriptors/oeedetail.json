@@ -49,6 +49,12 @@
       "screens": [
         "oeedetail"
       ]
+    },
+    {
+      "match": [],
+      "screens": [
+        "oeedetail"
+      ]
     }
   ]
 }
